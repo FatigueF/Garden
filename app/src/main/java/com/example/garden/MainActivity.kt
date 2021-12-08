@@ -30,7 +30,7 @@ class MainActivity : AppCompatActivity() {
     private lateinit var newPlantCategoryArrayList : ArrayList<PlantCategory>
     lateinit var titleIm : Array<Int>
     lateinit var mainTitle : Array<String>
-    lateinit var title_item_detail : Array<String>
+     lateinit var title_item_detail : Array<String>
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
